@@ -175,7 +175,7 @@ button:hover{
     <h1>My <span>First Code</span></h1>
 
     <p>
-        Bienvenue dans mon premier projet HTML créé avec GitHub Codespaces 🚀
+        Bienvenue dans mon premier projet HTML créé avec GitHub Codespaces 🚀.
     </p>
 
     <button>
