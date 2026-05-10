@@ -1,2 +1,8 @@
 # my_first_project
-This project is my first one, I would use it store my daily code.
+> 我的第一个 GitHub 仓库，用来记录日常学习和练习的代码~
+
+## 项目简介
+这个仓库用来存放我每天练习的代码片段，记录学习过程中的点点滴滴。
+
+## 目录说明
+- 目前只有 README 文件，后续会慢慢添加 Python/HTML 等练习代码
